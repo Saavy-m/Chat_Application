@@ -77,3 +77,9 @@ The application uses **Socket.io** to handle concurrency effectively:
 **Access the Deployed Version ( Backend on Render and Frontend on Vercel )** - https://chat-application-bice-xi.vercel.app/
 
 **Deployed backend link ( On Render )** - https://chat-application-backend-vhlo.onrender.com
+
+## Chat Application
+![Screenshot 2024-11-27 231024](https://github.com/user-attachments/assets/253007ff-5440-46ae-9cd2-cd0b71945fc4)
+
+![Screenshot 2024-11-27 232442](https://github.com/user-attachments/assets/19bf393d-262e-4f1f-ac4c-3b6fe82efd7e)
+
