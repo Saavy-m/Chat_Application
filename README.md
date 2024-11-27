@@ -73,4 +73,4 @@ The application uses **Socket.io** to handle concurrency effectively:
   npm install
   npm run dev
  ```
-**Access the Deployed Version ( Backend on Render and Frontend on Vercel )** - link
+**Access the Deployed Version ( Backend on Render and Frontend on Vercel )** - https://chat-application-bice-xi.vercel.app/
