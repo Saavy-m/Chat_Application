@@ -22,6 +22,7 @@ const RoomInfo = () => {
     };
 
     return (
+        <div className="h-full flex-col items-center justify-center">
         <div className="bg-white shadow-lg p-8 rounded-lg max-w-md w-full">
             <h1 className="text-2xl font-bold text-center mb-6">Join ChatRoom</h1>
             <form className="space-y-4 justify-center items-center flex-row">
@@ -49,6 +50,14 @@ const RoomInfo = () => {
                 </button>
                 </div>
             </form>
+        </div>
+        <div className="w-full h-full text-center font-semibold bottom-4 mt-10 flex justify-center items-center">
+            <div>
+                <p>By Satyam Shukla</p>
+                <p>satyamofficial4916@gmail.com</p>
+                <p>Hiring Task - Backend Developer - Kuvaka-Tech</p>
+            </div>
+        </div>
         </div>
     );
 };

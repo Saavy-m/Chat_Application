@@ -61,11 +61,11 @@ const JoinRoom = () => {
         <div className="flex flex-col justify-center p-4">
           <div className="flex mt-6 flex-col items-center justify-center">
             <div className="relative">
-              <h1 className="mt-4 p-2 text-3xl text-black font-extrabold">Chat Room</h1>
+              <h1 className="mt-4 p-2 text-3xl text-black font-extrabold">Group Chatting Room</h1>
             </div>
           </div>
           <div className="flex flex-col items-center md:ml-12 w-full mt-16">
-            <div className="h-96 overflow-y-scroll p-4 md:w-3/4 w-[90%] shadow-xl mb-[4%] border-gray-200 border-2">
+            <div className="h-96 overflow-y-scroll p-4 md:w-3/4 w-[90%] shadow-xl mb-[4%] bg-gray-50 border-gray-200 border-2">
               {messages && messages.length > 0 ? (
                 messages.map((message, index) => (
                   
