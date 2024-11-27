@@ -1,7 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import RoomInfo from "./Components/RoomInfo";
-import ChatRoom from "./Components/ChatRoom";
 import Join_room from "./Components/join_room";
 import { SocketProvider } from "./Context API/context_socket";
 
